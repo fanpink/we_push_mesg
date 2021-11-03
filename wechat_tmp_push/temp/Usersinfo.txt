@@ -1,3 +1,0 @@
-subscribe,openid,nickname,sex,language,city,province,country,headimgurl,subscribe_time,remark,groupid,tagid_list,subscribe_scene,qr_scene,qr_scene_str	
-1	o6R6Y6OPcHvOyA63IadSpe28Rx4I	小平	0	zh_CN				http://thirdwx.qlogo.cn/mmopen/XohAUDWic15BeaokiaRmPo89vlUiawV6dkLEQ3feCjlEibIiaoVjVgOnHfydLkP4icU6b3AmZl15vzI6MLAaNxcrzOeQ22nID3mUpv/132	1630912393		0	[]	ADD_SCENE_QR_CODE	0		
-1	o6R6Y6AoSyrh8jqpEFVDDdrtGOgk	樊阳羿	0	zh_CN				http://thirdwx.qlogo.cn/mmopen/jmuicPf9ISiaqwelvrk2VaWm8FK7ibEEvLxprAa0nRVP2G6GttvxMePnqlaqe4ot85BDPxg1Q1ydMLqslBbokV68vRJeLdjO487/132	1635691932		0	[]	ADD_SCENE_QR_CODE	0		
