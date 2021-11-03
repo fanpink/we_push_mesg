@@ -1,6 +1,7 @@
 # we_push_mesg
 ## 文件目录结构
 |-->temp/
+
     |-->Usersinfo.txt       
     |-->access_token.json       
     |-->openids.json        
